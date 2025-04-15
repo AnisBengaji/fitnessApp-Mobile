@@ -1,0 +1,41 @@
+// Export pages
+export '/authentification/authentification_widget.dart'
+    show AuthentificationWidget;
+export '/stetting/stetting_widget.dart' show StettingWidget;
+export '/homepage/homepage_widget.dart' show HomepageWidget;
+export '/history/history_widget.dart' show HistoryWidget;
+export '/startworkout/startworkout_widget.dart' show StartworkoutWidget;
+export '/test/test_widget.dart' show TestWidget;
+export '/exercices/exercices_widget.dart' show ExercicesWidget;
+export '/addoffer/addoffer_widget.dart' show AddofferWidget;
+export '/offer/offer_widget.dart' show OfferWidget;
+export '/home_todo/home_todo_widget.dart' show HomeTodoWidget;
+export '/add_task/add_task_widget.dart' show AddTaskWidget;
+export '/edit_todo/edit_todo_widget.dart' show EditTodoWidget;
+export '/create_groupe/create_groupe_widget.dart' show CreateGroupeWidget;
+export '/find_groups/find_groups_widget.dart' show FindGroupsWidget;
+export '/page_groupe/page_groupe_widget.dart' show PageGroupeWidget;
+export '/add_member/add_member_widget.dart' show AddMemberWidget;
+export '/diet/calculator/calculator_widget.dart' show CalculatorWidget;
+export '/notification/notification_widget.dart' show NotificationWidget;
+export '/weather/weather_widget.dart' show WeatherWidget;
+export '/result_meteo/result_meteo_widget.dart' show ResultMeteoWidget;
+export '/signup/signup_widget.dart' show SignupWidget;
+export '/calendrier/calendrier_widget.dart' show CalendrierWidget;
+export '/add_rendez_vous/add_rendez_vous_widget.dart' show AddRendezVousWidget;
+export '/affichdate/affichdate_widget.dart' show AffichdateWidget;
+export '/dynamique/dynamique_widget.dart' show DynamiqueWidget;
+export '/exercie2/exercie2_widget.dart' show Exercie2Widget;
+export '/diet/meals22/meals22_widget.dart' show Meals22Widget;
+export '/create_coach/create_coach_widget.dart' show CreateCoachWidget;
+export '/edit_groupe/edit_groupe_widget.dart' show EditGroupeWidget;
+export '/chatbot/chatbot_widget.dart' show ChatbotWidget;
+export '/affichresult/affichresult_widget.dart' show AffichresultWidget;
+export '/diet/edit_meal/edit_meal_widget.dart' show EditMealWidget;
+export '/diet/test_add2/test_add2_widget.dart' show TestAdd2Widget;
+export '/meal_recomendation/meal_recomendation_widget.dart'
+    show MealRecomendationWidget;
+export '/diet/bmicalcul/bmicalcul_widget.dart' show BmicalculWidget;
+export '/groupss/groupss_widget.dart' show GroupssWidget;
+export '/diet/result/result_widget.dart' show ResultWidget;
+export '/diet/test_x_d/test_x_d_widget.dart' show TestXDWidget;
