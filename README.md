@@ -1,6 +1,6 @@
 # workshop
 
-A new Flutter project.
+flutterflow project
 
 ## Getting Started
 
